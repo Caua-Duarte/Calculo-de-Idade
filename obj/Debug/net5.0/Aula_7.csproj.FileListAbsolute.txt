@@ -1,0 +1,16 @@
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.exe
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.deps.json
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.runtimeconfig.json
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.runtimeconfig.dev.json
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.dll
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\ref\Aula_7.dll
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\bin\Debug\net5.0\Aula_7.pdb
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.csprojAssemblyReference.cache
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.AssemblyInfoInputs.cache
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.AssemblyInfo.cs
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.csproj.CoreCompileInputs.cache
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.dll
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\ref\Aula_7.dll
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.pdb
+C:\WorkSpace\DotNET\Calculo_Idade\Aula_7\obj\Debug\net5.0\Aula_7.genruntimeconfig.cache
